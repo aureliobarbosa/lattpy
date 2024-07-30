@@ -94,7 +94,7 @@ Both methods are vectorized and support multiple points as inputs:
 	transformations depending on the data type due to machine precision.
 
 
-Any point :math:`\boldsymbol{r}` in the cartesian cooridnates can be translated by a
+Any point :math:`\boldsymbol{r}` in the cartesian coordinates can be translated by a
 translation vector :math:`\boldsymbol{n} = (n_1, \dots, n_d)`:
 
 .. math::
